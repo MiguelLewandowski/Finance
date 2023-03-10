@@ -1,0 +1,15 @@
+#dashboard{
+    width: 1110px;
+    height: 400px;
+    padding-bottom: 40px;
+    background-color: #383636;
+    border-radius: 30px;
+    display: flex;
+}
+
+
+
+.imgNotstonks{
+    height: 255px;
+    width: 335px;
+}
